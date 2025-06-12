@@ -234,7 +234,6 @@ body {
 
 .social__link:hover .social__icon {
     fill: var(--bg-icon-hover);
-
 }
 
 .social__link:active .social__icon {
